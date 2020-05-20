@@ -12,7 +12,7 @@
 		787D6201247565C0005D5439 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787D6200247565C0005D5439 /* ViewController.swift */; };
 		787D6204247565C0005D5439 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787D6202247565C0005D5439 /* Main.storyboard */; };
 		787D6206247565C1005D5439 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787D6205247565C1005D5439 /* Assets.xcassets */; };
-		787D6209247565C1005D5439 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787D6207247565C1005D5439 /* LaunchScreen.storyboard */; };
+		787D6209247565C1005D5439 /* Hello,World! in Resources */ = {isa = PBXBuildFile; fileRef = 787D6207247565C1005D5439 /* Hello,World! */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +22,7 @@
 		787D6200247565C0005D5439 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		787D6203247565C0005D5439 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		787D6205247565C1005D5439 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		787D6208247565C1005D5439 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		787D6208247565C1005D5439 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Base; path = "Base.lproj/Hello,World!"; sourceTree = "<group>"; };
 		787D620A247565C1005D5439 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +61,7 @@
 				787D6200247565C0005D5439 /* ViewController.swift */,
 				787D6202247565C0005D5439 /* Main.storyboard */,
 				787D6205247565C1005D5439 /* Assets.xcassets */,
-				787D6207247565C1005D5439 /* LaunchScreen.storyboard */,
+				787D6207247565C1005D5439 /* Hello,World! */,
 				787D620A247565C1005D5439 /* Info.plist */,
 			);
 			path = HelloWorldApp;
@@ -125,7 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				787D6209247565C1005D5439 /* LaunchScreen.storyboard in Resources */,
+				787D6209247565C1005D5439 /* Hello,World! in Resources */,
 				787D6206247565C1005D5439 /* Assets.xcassets in Resources */,
 				787D6204247565C0005D5439 /* Main.storyboard in Resources */,
 			);
@@ -155,12 +155,12 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		787D6207247565C1005D5439 /* LaunchScreen.storyboard */ = {
+		787D6207247565C1005D5439 /* Hello,World! */ = {
 			isa = PBXVariantGroup;
 			children = (
 				787D6208247565C1005D5439 /* Base */,
 			);
-			name = LaunchScreen.storyboard;
+			name = "Hello,World!";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
